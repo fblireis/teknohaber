@@ -1,0 +1,2 @@
+# teknohaber
+Teknoloji web sitesi
